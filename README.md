@@ -1,4 +1,11 @@
-## Bem-vindo(a) ao perfil da Natasha😁
+# Olá, eu sou a Natasha !
+
+### 💻 Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas e Ciências da Computação, apaixonada por tecnologia e sempre em busca de aprendizado.
+
+📍 Moro em Praia Grande - SP**
+
+---
 
  <div>
    <a href="https://github.com/NatashaLorenzano">
@@ -21,3 +28,5 @@
   <a href = "Natasha.lorenzano@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natasha-lorenzano-04018b236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+ 
+
